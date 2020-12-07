@@ -32,6 +32,8 @@ Click the `Launch Watson Discovery` button to navigate to your service.
 
   ![disco-home](images/disco-home.png)
 
+### Collect Watson Discovery configuration data
+
 The Watson Discovery service allows you to create `Collections` of data. Once created, you will need to know the `Environment`, `Configuration` and `Collection` IDs to access your service using the API. To find these values, simply open up your collection, and click the `API` button.
 
   ![get-disco-ids](images/get-disco-ids.png)
